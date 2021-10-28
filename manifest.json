@@ -1,0 +1,38 @@
+{
+  "name": "Rendi Riansyah",
+  "short_name": "Rendi",
+  "start_url": "https://www.rendiriansyah.com/",
+  "display": "standalone",
+  "background_color": "#0C7BB3",
+  "theme_color": "#58126A",
+  "description": "Media Berbagi dan Informasi",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s48/logorendi.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s72/logorendi.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s96/logorendi.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s144/logorendi.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s168/logorendi.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s192/logorendi.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhCQaciOZGLLWOPqh2sIoHDsslhcs-bl5CPEjp25jdUaJy2DAuU-apCMBpF0BfSWGTV6XNGFggDQJMp-_2xYt6kRdntx7A4-jiVf1p6iywTyMj-b1JJBT7LFrJ4SESTb4HnIA8IfqwZlUfHCnNvcOOU7L501FeeH8yRvAoV5p-CUTS10HR7-8-5MJuTDQ=s512/logorendi.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
